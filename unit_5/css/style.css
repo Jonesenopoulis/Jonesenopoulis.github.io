@@ -9,14 +9,18 @@ body {
 }
 h1 {
 	font-size: 1.5em;
+	background: #333;
+	color: #fff;
+	display: inline-block;
 }
 #intro {
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 90vh;
-	padding: 3em 0 0 34em;
+	padding: 3em 0 0;
 	font-size: 2em;
 	background-position: center;
+	background: url(../images/computer.png);
 }
 header {
 	background-color: #FFED74;
@@ -26,11 +30,15 @@ header {
 nav {
 	background-color: #E8C66A;
 }
-aside {
-	background-color: #FFC675;
+figure {
+	width:400px; /* use % here */
+}
+figure img {
+	width:100%;
 }
 article {
 	background-color: #E89C6C;
+	margin-top: 2em;
 }
 footer {
 	background-color: #FF957E;
