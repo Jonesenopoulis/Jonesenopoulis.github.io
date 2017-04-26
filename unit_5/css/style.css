@@ -16,8 +16,9 @@ h1 {
 #intro {
 	background-size: cover;
 	background-repeat: no-repeat;
-	height: 90vh;
-	padding: 1em 0 0;
+	height: 100%;
+	width: 100%;
+	padding: 3em 0 0;
 	font-size: 2em;
 	background-position: center;
 	background: url(../images/lifestyle.png);
