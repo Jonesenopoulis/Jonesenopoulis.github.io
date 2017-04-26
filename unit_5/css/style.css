@@ -19,7 +19,7 @@ h1 {
 	height: 90vh;
 	padding: 3em 0 0;
 	font-size: 2em;
-	background-position: center;
+	background-position: top center;
 	background: url(../images/lifestyle.png);
 }
 header {
