@@ -16,10 +16,10 @@ h1 {
 #intro {
 	background-size: cover;
 	background-repeat: no-repeat;
-	height: 90vh;
+	width: 100%;
 	padding: 3em 0 0;
 	font-size: 2em;
-	background-position: top center;
+	background-position: center;
 	background: url(../images/lifestyle.png);
 }
 header {
@@ -39,6 +39,7 @@ figure img {
 article {
 	background-color: #E89C6C;
 	margin-top: 2em;
+	padding: 20px;
 }
 footer {
 	background-color: #FF957E;
